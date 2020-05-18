@@ -8,6 +8,5 @@ def square_array(array)
     numbers.push(Math.sqrt())
     index +=1
   end
-
-numbers
+  numbers
 end
