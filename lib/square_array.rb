@@ -1,10 +1,13 @@
+
+
+
 def square_array(array)
-  new_array = []
+  numbers = []
   index = 0
   while array[index] do 
-    new_array.push(Math.sqrt(array[]))
-    index += 1
-  end  
-  new_array
-end
+    numbers.push(Math.sqrt())
+    index +=1
+  end
 
+numbers
+end
